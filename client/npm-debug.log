@@ -1,0 +1,252 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'C:\\Program Files\\nodejs\\node.exe',
+1 verbose cli   'C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'isntall',
+1 verbose cli   'angular' ]
+2 info using npm@2.14.20
+3 info using node@v4.4.0
+4 verbose install initial load of D:\Prashant Projects\p2\client\package.json
+5 verbose installManyTop reading scoped package data from D:\Prashant Projects\p2\client\node_modules\autoprefixer-core\package.json
+6 verbose installManyTop reading scoped package data from D:\Prashant Projects\p2\client\node_modules\compass\package.json
+7 verbose installManyTop reading scoped package data from D:\Prashant Projects\p2\client\node_modules\grunt\package.json
+8 verbose installManyTop reading scoped package data from D:\Prashant Projects\p2\client\node_modules\grunt-angular-templates\package.json
+9 verbose installManyTop reading scoped package data from D:\Prashant Projects\p2\client\node_modules\grunt-concurrent\package.json
+10 verbose installManyTop reading scoped package data from D:\Prashant Projects\p2\client\node_modules\grunt-contrib-clean\package.json
+11 verbose installManyTop reading scoped package data from D:\Prashant Projects\p2\client\node_modules\grunt-contrib-compass\package.json
+12 verbose installManyTop reading scoped package data from D:\Prashant Projects\p2\client\node_modules\grunt-contrib-concat\package.json
+13 verbose installManyTop reading scoped package data from D:\Prashant Projects\p2\client\node_modules\grunt-contrib-connect\package.json
+14 verbose installManyTop reading scoped package data from D:\Prashant Projects\p2\client\node_modules\grunt-contrib-copy\package.json
+15 verbose installManyTop reading scoped package data from D:\Prashant Projects\p2\client\node_modules\grunt-contrib-cssmin\package.json
+16 verbose installManyTop reading scoped package data from D:\Prashant Projects\p2\client\node_modules\grunt-contrib-htmlmin\package.json
+17 verbose installManyTop reading scoped package data from D:\Prashant Projects\p2\client\node_modules\grunt-contrib-imagemin\package.json
+18 verbose installManyTop reading scoped package data from D:\Prashant Projects\p2\client\node_modules\grunt-contrib-jshint\package.json
+19 verbose installManyTop reading scoped package data from D:\Prashant Projects\p2\client\node_modules\grunt-contrib-uglify\package.json
+20 verbose installManyTop reading scoped package data from D:\Prashant Projects\p2\client\node_modules\grunt-contrib-watch\package.json
+21 verbose installManyTop reading scoped package data from D:\Prashant Projects\p2\client\node_modules\grunt-filerev\package.json
+22 verbose installManyTop reading scoped package data from D:\Prashant Projects\p2\client\node_modules\grunt-google-cdn\package.json
+23 verbose installManyTop reading scoped package data from D:\Prashant Projects\p2\client\node_modules\grunt-jscs\package.json
+24 verbose installManyTop reading scoped package data from D:\Prashant Projects\p2\client\node_modules\grunt-newer\package.json
+25 verbose installManyTop reading scoped package data from D:\Prashant Projects\p2\client\node_modules\grunt-ng-annotate\package.json
+26 verbose installManyTop reading scoped package data from D:\Prashant Projects\p2\client\node_modules\grunt-postcss\package.json
+27 verbose installManyTop reading scoped package data from D:\Prashant Projects\p2\client\node_modules\grunt-svgmin\package.json
+28 verbose installManyTop reading scoped package data from D:\Prashant Projects\p2\client\node_modules\grunt-usemin\package.json
+29 verbose installManyTop reading scoped package data from D:\Prashant Projects\p2\client\node_modules\grunt-wiredep\package.json
+30 verbose installManyTop reading scoped package data from D:\Prashant Projects\p2\client\node_modules\jasmine-core\package.json
+31 verbose installManyTop reading scoped package data from D:\Prashant Projects\p2\client\node_modules\jit-grunt\package.json
+32 verbose installManyTop reading scoped package data from D:\Prashant Projects\p2\client\node_modules\jshint-stylish\package.json
+33 verbose installManyTop reading scoped package data from D:\Prashant Projects\p2\client\node_modules\karma\package.json
+34 verbose installManyTop reading scoped package data from D:\Prashant Projects\p2\client\node_modules\karma-jasmine\package.json
+35 verbose installManyTop reading scoped package data from D:\Prashant Projects\p2\client\node_modules\karma-phantomjs-launcher\package.json
+36 verbose installManyTop reading scoped package data from D:\Prashant Projects\p2\client\node_modules\phantomjs-prebuilt\package.json
+37 verbose installManyTop reading scoped package data from D:\Prashant Projects\p2\client\node_modules\time-grunt\package.json
+38 info package.json grunt-contrib-concat@0.5.1 No license field.
+39 info package.json grunt-contrib-copy@0.7.0 No license field.
+40 info package.json grunt-contrib-watch@0.6.1 No license field.
+41 info package.json grunt-angular-templates@0.5.9 No license field.
+42 info package.json grunt-contrib-clean@0.6.0 No license field.
+43 info package.json grunt-contrib-connect@0.9.0 No license field.
+44 info package.json grunt-contrib-cssmin@0.12.3 No license field.
+45 info package.json grunt-contrib-htmlmin@0.4.0 No license field.
+46 info package.json grunt-contrib-uglify@0.7.0 No license field.
+47 info package.json grunt-filerev@2.3.1 license should be a valid SPDX license expression
+48 info package.json grunt-google-cdn@0.4.3 license should be a valid SPDX license expression
+49 info package.json grunt-svgmin@2.0.1 No license field.
+50 info package.json grunt-wiredep@2.0.0 No license field.
+51 verbose readDependencies loading dependencies from D:\Prashant Projects\p2\client\package.json
+52 silly cache add args [ 'angular', null ]
+53 verbose cache add spec angular
+54 silly cache add parsed spec Result {
+54 silly cache add   raw: 'angular',
+54 silly cache add   scope: null,
+54 silly cache add   name: 'angular',
+54 silly cache add   rawSpec: '',
+54 silly cache add   spec: 'latest',
+54 silly cache add   type: 'tag' }
+55 silly addNamed angular@latest
+56 verbose addNamed "latest" is being treated as a dist-tag for angular
+57 info addNameTag [ 'angular', 'latest' ]
+58 silly mapToRegistry name angular
+59 silly mapToRegistry using default registry
+60 silly mapToRegistry registry https://registry.npmjs.org/
+61 silly mapToRegistry uri https://registry.npmjs.org/angular
+62 verbose addNameTag registry:https://registry.npmjs.org/angular not in flight; fetching
+63 verbose request uri https://registry.npmjs.org/angular
+64 verbose request no auth needed
+65 info attempt registry request try #1 at 6:02:12 PM
+66 verbose request id a7c3cbd62a0f22f0
+67 http request GET https://registry.npmjs.org/angular
+68 http 200 https://registry.npmjs.org/angular
+69 verbose headers { server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
+69 verbose headers   etag: '"B1WQL5FDYON8T77T0BXDX8KZK"',
+69 verbose headers   'content-type': 'application/json',
+69 verbose headers   'content-encoding': 'gzip',
+69 verbose headers   'cache-control': 'max-age=300',
+69 verbose headers   'content-length': '14983',
+69 verbose headers   'accept-ranges': 'bytes',
+69 verbose headers   date: 'Wed, 06 Apr 2016 12:32:15 GMT',
+69 verbose headers   via: '1.1 varnish',
+69 verbose headers   age: '6',
+69 verbose headers   connection: 'keep-alive',
+69 verbose headers   'x-served-by': 'cache-sin6926-SIN',
+69 verbose headers   'x-cache': 'HIT',
+69 verbose headers   'x-cache-hits': '1',
+69 verbose headers   'x-timer': 'S1459945935.401800,VS0,VE0',
+69 verbose headers   vary: 'Accept-Encoding' }
+70 silly get cb [ 200,
+70 silly get   { server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
+70 silly get     etag: '"B1WQL5FDYON8T77T0BXDX8KZK"',
+70 silly get     'content-type': 'application/json',
+70 silly get     'content-encoding': 'gzip',
+70 silly get     'cache-control': 'max-age=300',
+70 silly get     'content-length': '14983',
+70 silly get     'accept-ranges': 'bytes',
+70 silly get     date: 'Wed, 06 Apr 2016 12:32:15 GMT',
+70 silly get     via: '1.1 varnish',
+70 silly get     age: '6',
+70 silly get     connection: 'keep-alive',
+70 silly get     'x-served-by': 'cache-sin6926-SIN',
+70 silly get     'x-cache': 'HIT',
+70 silly get     'x-cache-hits': '1',
+70 silly get     'x-timer': 'S1459945935.401800,VS0,VE0',
+70 silly get     vary: 'Accept-Encoding' } ]
+71 verbose get saving angular to C:\Users\pol\AppData\Roaming\npm-cache\registry.npmjs.org\angular\.cache.json
+72 verbose correctMkdir C:\Users\pol\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+73 silly addNameTag next cb for angular with tag latest
+74 silly addNamed angular@1.5.3
+75 verbose addNamed "1.5.3" is a plain semver version for angular
+76 silly mapToRegistry name angular
+77 silly mapToRegistry using default registry
+78 silly mapToRegistry registry https://registry.npmjs.org/
+79 silly mapToRegistry uri https://registry.npmjs.org/angular
+80 verbose addRemoteTarball https://registry.npmjs.org/angular/-/angular-1.5.3.tgz not in flight; adding
+81 verbose addRemoteTarball [ 'https://registry.npmjs.org/angular/-/angular-1.5.3.tgz',
+81 verbose addRemoteTarball   '37c2f198ae76c2d6f3717a4ecef1cddcb048af79' ]
+82 info retry fetch attempt 1 at 6:02:13 PM
+83 info attempt registry request try #1 at 6:02:13 PM
+84 http fetch GET https://registry.npmjs.org/angular/-/angular-1.5.3.tgz
+85 http fetch 200 https://registry.npmjs.org/angular/-/angular-1.5.3.tgz
+86 silly fetchAndShaCheck shasum 37c2f198ae76c2d6f3717a4ecef1cddcb048af79
+87 verbose addTmpTarball C:\Users\pol\AppData\Local\Temp\npm-8468-a597f53c\registry.npmjs.org\angular\-\angular-1.5.3.tgz not in flight; adding
+88 verbose addTmpTarball already have metadata; skipping unpack for angular@1.5.3
+89 verbose correctMkdir C:\Users\pol\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+90 silly cache afterAdd angular@1.5.3
+91 verbose afterAdd C:\Users\pol\AppData\Roaming\npm-cache\angular\1.5.3\package\package.json not in flight; writing
+92 verbose correctMkdir C:\Users\pol\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+93 verbose afterAdd C:\Users\pol\AppData\Roaming\npm-cache\angular\1.5.3\package\package.json written
+94 silly install resolved [ { name: 'angular',
+94 silly install resolved     version: '1.5.3',
+94 silly install resolved     description: 'HTML enhanced for web apps',
+94 silly install resolved     main: 'index.js',
+94 silly install resolved     scripts: { test: 'echo "Error: no test specified" && exit 1' },
+94 silly install resolved     repository:
+94 silly install resolved      { type: 'git',
+94 silly install resolved        url: 'git+https://github.com/angular/angular.js.git' },
+94 silly install resolved     keywords: [ 'angular', 'framework', 'browser', 'client-side' ],
+94 silly install resolved     author:
+94 silly install resolved      { name: 'Angular Core Team',
+94 silly install resolved        email: 'angular-core+npm@google.com' },
+94 silly install resolved     license: 'MIT',
+94 silly install resolved     bugs: { url: 'https://github.com/angular/angular.js/issues' },
+94 silly install resolved     homepage: 'http://angularjs.org',
+94 silly install resolved     gitHead: '5a07c5107b4d24f41744a02b07717d55bad88e70',
+94 silly install resolved     _id: 'angular@1.5.3',
+94 silly install resolved     _shasum: '37c2f198ae76c2d6f3717a4ecef1cddcb048af79',
+94 silly install resolved     _from: 'angular@latest',
+94 silly install resolved     _npmVersion: '2.14.20',
+94 silly install resolved     _nodeVersion: '4.4.1',
+94 silly install resolved     _npmUser: { name: 'angularcore', email: 'angular-core+npm@google.com' },
+94 silly install resolved     maintainers: [ [Object], [Object], [Object] ],
+94 silly install resolved     dist:
+94 silly install resolved      { shasum: '37c2f198ae76c2d6f3717a4ecef1cddcb048af79',
+94 silly install resolved        tarball: 'https://registry.npmjs.org/angular/-/angular-1.5.3.tgz' },
+94 silly install resolved     _npmOperationalInternal:
+94 silly install resolved      { host: 'packages-16-east.internal.npmjs.com',
+94 silly install resolved        tmp: 'tmp/angular-1.5.3.tgz_1458938143727_0.7922690813429654' },
+94 silly install resolved     directories: {},
+94 silly install resolved     _resolved: 'https://registry.npmjs.org/angular/-/angular-1.5.3.tgz' } ]
+95 info install angular@1.5.3 into D:\Prashant Projects\p2\client
+96 info installOne angular@1.5.3
+97 verbose installOne of angular to D:\Prashant Projects\p2\client not in flight; installing
+98 verbose correctMkdir C:\Users\pol\AppData\Roaming\npm-cache\_locks correctMkdir not in flight; initializing
+99 verbose lock using C:\Users\pol\AppData\Roaming\npm-cache\_locks\angular-dd2a4697fbb07eb9.lock for D:\Prashant Projects\p2\client\node_modules\angular
+100 silly install write writing angular 1.5.3 to D:\Prashant Projects\p2\client\node_modules\angular
+101 verbose unbuild node_modules\angular
+102 silly gentlyRm D:\Prashant Projects\p2\client\node_modules\angular is being purged from base D:\Prashant Projects\p2\client
+103 verbose gentlyRm don't care about contents; nuking D:\Prashant Projects\p2\client\node_modules\angular
+104 verbose tar unpack C:\Users\pol\AppData\Roaming\npm-cache\angular\1.5.3\package.tgz
+105 verbose tar unpacking to D:\Prashant Projects\p2\client\node_modules\angular
+106 silly gentlyRm D:\Prashant Projects\p2\client\node_modules\angular is being purged
+107 verbose gentlyRm don't care about contents; nuking D:\Prashant Projects\p2\client\node_modules\angular
+108 silly gunzTarPerm modes [ '777', '666' ]
+109 silly gunzTarPerm extractEntry package.json
+110 silly gunzTarPerm modified mode [ 'package.json', 420, 438 ]
+111 silly gunzTarPerm extractEntry README.md
+112 silly gunzTarPerm modified mode [ 'README.md', 420, 438 ]
+113 silly gunzTarPerm extractEntry angular.js
+114 silly gunzTarPerm modified mode [ 'angular.js', 420, 438 ]
+115 silly gunzTarPerm extractEntry angular.min.js
+116 silly gunzTarPerm modified mode [ 'angular.min.js', 420, 438 ]
+117 silly gunzTarPerm extractEntry index.js
+118 silly gunzTarPerm modified mode [ 'index.js', 420, 438 ]
+119 silly gunzTarPerm extractEntry angular-csp.css
+120 silly gunzTarPerm modified mode [ 'angular-csp.css', 420, 438 ]
+121 silly gunzTarPerm extractEntry angular.min.js.gzip
+122 silly gunzTarPerm modified mode [ 'angular.min.js.gzip', 420, 438 ]
+123 silly gunzTarPerm extractEntry angular.min.js.map
+124 silly gunzTarPerm modified mode [ 'angular.min.js.map', 420, 438 ]
+125 silly gunzTarPerm extractEntry bower.json
+126 silly gunzTarPerm modified mode [ 'bower.json', 420, 438 ]
+127 verbose write writing to D:\Prashant Projects\p2\client\node_modules\angular\package.json
+128 info preinstall angular@1.5.3
+129 verbose readDependencies loading dependencies from D:\Prashant Projects\p2\client\node_modules\angular\package.json
+130 verbose readDependencies loading dependencies from D:\Prashant Projects\p2\client\node_modules\angular\package.json
+131 silly install resolved []
+132 verbose about to build D:\Prashant Projects\p2\client\node_modules\angular
+133 info build D:\Prashant Projects\p2\client\node_modules\angular
+134 info linkStuff angular@1.5.3
+135 silly linkStuff angular@1.5.3 has D:\Prashant Projects\p2\client\node_modules as its parent node_modules
+136 verbose linkBins angular@1.5.3
+137 verbose linkMans angular@1.5.3
+138 verbose rebuildBundles angular@1.5.3
+139 info install angular@1.5.3
+140 info postinstall angular@1.5.3
+141 verbose unlock done using C:\Users\pol\AppData\Roaming\npm-cache\_locks\angular-dd2a4697fbb07eb9.lock for D:\Prashant Projects\p2\client\node_modules\angular
+142 verbose validateInstall loading D:\Prashant Projects\p2\client\package.json for validation
+143 verbose stack Error: The package grunt@1.0.1 does not satisfy its siblings' peerDependencies requirements!
+143 verbose stack     at C:\Program Files\nodejs\node_modules\npm\lib\install.js:125:32
+143 verbose stack     at C:\Program Files\nodejs\node_modules\npm\lib\install.js:268:7
+143 verbose stack     at C:\Program Files\nodejs\node_modules\npm\node_modules\read-installed\read-installed.js:142:5
+143 verbose stack     at C:\Program Files\nodejs\node_modules\npm\node_modules\read-installed\read-installed.js:263:14
+143 verbose stack     at cb (C:\Program Files\nodejs\node_modules\npm\node_modules\slide\lib\async-map.js:47:24)
+143 verbose stack     at C:\Program Files\nodejs\node_modules\npm\node_modules\read-installed\read-installed.js:263:14
+143 verbose stack     at cb (C:\Program Files\nodejs\node_modules\npm\node_modules\slide\lib\async-map.js:47:24)
+143 verbose stack     at C:\Program Files\nodejs\node_modules\npm\node_modules\read-installed\read-installed.js:263:14
+143 verbose stack     at cb (C:\Program Files\nodejs\node_modules\npm\node_modules\slide\lib\async-map.js:47:24)
+143 verbose stack     at C:\Program Files\nodejs\node_modules\npm\node_modules\read-installed\read-installed.js:263:14
+144 verbose cwd D:\Prashant Projects\p2\client
+145 error Windows_NT 6.1.7601
+146 error argv "C:\\Program Files\\nodejs\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "isntall" "angular"
+147 error node v4.4.0
+148 error npm  v2.14.20
+149 error code EPEERINVALID
+150 error peerinvalid The package grunt@1.0.1 does not satisfy its siblings' peerDependencies requirements!
+150 error peerinvalid Peer jit-grunt@0.9.1 wants grunt@~0.4.0
+150 error peerinvalid Peer grunt-contrib-clean@0.6.0 wants grunt@~0.4.0
+150 error peerinvalid Peer grunt-newer@1.1.2 wants grunt@>=0.4.1
+150 error peerinvalid Peer grunt-contrib-concat@0.5.1 wants grunt@>=0.4.0
+150 error peerinvalid Peer grunt-contrib-copy@0.7.0 wants grunt@~0.4.0
+150 error peerinvalid Peer grunt-filerev@2.3.1 wants grunt@>=0.4.0
+150 error peerinvalid Peer grunt-usemin@3.1.1 wants grunt@>=0.4.0
+150 error peerinvalid Peer grunt-postcss@0.5.5 wants grunt@^0.4.5
+150 error peerinvalid Peer grunt-ng-annotate@0.9.2 wants grunt@~0.4.1
+150 error peerinvalid Peer grunt-contrib-watch@0.6.1 wants grunt@~0.4.0
+150 error peerinvalid Peer grunt-contrib-jshint@0.11.3 wants grunt@>=0.4.0
+150 error peerinvalid Peer grunt-contrib-connect@0.9.0 wants grunt@~0.4.0
+150 error peerinvalid Peer grunt-wiredep@2.0.0 wants grunt@~0.4.0
+150 error peerinvalid Peer grunt-jscs@1.8.0 wants grunt@~0.4.2
+150 error peerinvalid Peer grunt-contrib-htmlmin@0.4.0 wants grunt@>=0.4.0
+150 error peerinvalid Peer grunt-contrib-uglify@0.7.0 wants grunt@~0.4.0
+150 error peerinvalid Peer grunt-contrib-cssmin@0.12.3 wants grunt@>=0.4.0
+150 error peerinvalid Peer grunt-contrib-compass@1.1.1 wants grunt@>= 0.4.5
+150 error peerinvalid Peer grunt-contrib-imagemin@1.0.0 wants grunt@>=0.4.0
+151 verbose exit [ 1, true ]
